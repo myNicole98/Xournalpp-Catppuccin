@@ -66,13 +66,19 @@ work in progress
 View -> Toolbars -> Catppuccin 
 ```
 
-2. Open the preferences menu from the Menubar
+2. Change the paper color to `#1E1E2E` from
+
+``` lisp
+Journal -> Paper Color
+```
+
+3. Open the preferences menu from the Menubar
 
 ``` lisp
 Edit -> Preferences
 ```
 
-3. Navigate to the `View` tab and change the following settings:
+4. Navigate to the `View` tab and change the following settings:
     - Show Menubar on startup: `Disabled` (Optional)
     - Border color for current page and other selections: `#B4BEFE`
     - Background color between pages: `#181825`
@@ -80,7 +86,7 @@ Edit -> Preferences
     - Icon theme: `Lucide`
     - Dark theme: `Enabled`
 
-4. Optional steps for more consistency:
+5. Optional steps for more consistency:
     - Close the sidebar
 
 <img src=assets/screenshots/mocha_config.png>
