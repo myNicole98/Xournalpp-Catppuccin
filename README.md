@@ -12,8 +12,6 @@
 # About
 A soothing pastel theme for <a href="https://xournalpp.github.io/">Xournal++</a> using <a href=https://github.com/catppuccin/catppuccin#-palette>Catppuccin</a> color scheme
 
-**Note: only the Mocha theme is available for now, more flavours are coming soon.**
-
 # Previews
 
 <details>
