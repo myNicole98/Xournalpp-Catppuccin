@@ -31,10 +31,6 @@ A soothing pastel theme for <a href="https://xournalpp.github.io/">Xournal++</a>
 <img src="assets/screenshots/mocha.png"/>
 </details>
 
-# Note
-
-Custom palettes and the Lucid icon theme are currently supported <b>only</b> on <a href=https://github.com/xournalpp/xournalpp/releases/tag/nightly>nightly builds</a> of Xournal++
-
 # Install
 1. Download `toolbar.ini` from this repository and append its content to `~/.config/xournalpp/toolbar.ini`
 
