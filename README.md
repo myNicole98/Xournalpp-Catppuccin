@@ -38,7 +38,7 @@ If the directory doesn't exist, create it with
 ``` lisp
 mkdir ~/.config/xournalpp/
 ```
-2. Choose your preferred flavour from this repository, download `palette.gpl` and place it inside `~/.config/xournalpp/`
+2. Choose your preferred flavour from this repository, download `palette.gpl` and place it inside `~/.config/xournalpp/palettes/`. Make sure to create the palettes folder if it doesn't exist
 
 3. Install and apply a <a href=https://github.com/catppuccin/gtk>Catppuccin GTK theme</a> (Optional)
 
